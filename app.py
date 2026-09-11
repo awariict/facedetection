@@ -1,8 +1,8 @@
 """
-FaceTrack — AI Facial Recognition Attendance System
+ Nwaogu Chinaza KennethFaceTrack — AI Facial Recognition Attendance System
 Main application entry point.
 
-Author: Built for Awari
+Author: Built for Nwaogu Chinaza Kenneth
 Stack: Streamlit + OpenCV (LBPH) + MongoDB Atlas
 """
 
@@ -121,7 +121,7 @@ with st.sidebar:
 st.markdown(
     """
     <div class="top-header">
-        <h1>Facial Recognition Attendance System</h1>
+        <h1> Nwaogu Chinaza Kenneth Facial Recognition Attendance System</h1>
         <p>Secure, fast, and reliable attendance tracking powered by computer vision.</p>
     </div>
     """,
